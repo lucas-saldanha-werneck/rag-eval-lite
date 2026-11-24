@@ -1,0 +1,9 @@
+{"_note": "EXAMPLE DATA, invented for this demo. Not real course content.",
+ "chunks": [
+  {"id": "c1", "text": "Students can download a lesson as audiobook and listen offline in the mobile app."},
+  {"id": "c2", "text": "To reset your password, open the login page and choose the forgot password link. An email arrives within ten minutes."},
+  {"id": "c3", "text": "A subscription renews every year. You can cancel it in account settings before the renewal date."},
+  {"id": "c4", "text": "Practice quizzes show the correct answer and a short explanation after each question."},
+  {"id": "c5", "text": "The study planner builds a weekly schedule from the exam date and the hours you have per day."},
+  {"id": "c6", "text": "Support answers messages on weekdays from 9 to 18 in the chat inside the app."}
+ ]}

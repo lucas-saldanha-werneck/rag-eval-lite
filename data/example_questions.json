@@ -1,0 +1,14 @@
+{"_note": "EXAMPLE DATA, invented. Gold = the chunk that should be retrieved.",
+ "questions": [
+  {"question": "How do I reset my password?", "gold": "c2"},
+  {"question": "Can I listen to lessons offline?", "gold": "c1"},
+  {"question": "How do I cancel my subscription?", "gold": "c3"},
+  {"question": "Does the planner make a weekly schedule?", "gold": "c5"},
+  {"question": "I forgot my login, what now?", "gold": "c2"},
+  {"question": "When can I talk to a human?", "gold": "c6"}
+ ],
+ "answers": [
+  {"id": "a1", "answer": "Open the login page and choose the forgot password link [c2]. The email arrives within ten minutes [c2]."},
+  {"id": "a2", "answer": "You can cancel in account settings before the renewal date [c3]. Refunds are paid within 7 days."},
+  {"id": "a3", "answer": "Quizzes show the correct answer after each question [c9]."}
+ ]}
